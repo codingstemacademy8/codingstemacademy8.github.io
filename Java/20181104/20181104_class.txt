@@ -1,0 +1,19 @@
+1) Copy and run listing 2.5 (page 95)
+
+Submit question 2 to 5 to -->  https://goo.gl/forms/r8Pvbimtt0sHF4492
+2) Work on question 29 (page 102)
+
+3) Create a progarm and include the code on page 101 (bottom part).
+4) Write a program to produce (use System.out.prinf):
+      Roberts
+        James
+      Patrick
+       George
+
+5) Write a program to produce (use System.out.prinf):
+      $10.25
+       $4.50
+    $1234.56
+
+
+

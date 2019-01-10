@@ -1,0 +1,29 @@
+1) Duplicate and run the program 5-3 on page 234.
+
+2) Revise the code to display:
+
+0
+1
+2
+3
+4
+5
+
+3) Revise the program 5-3 on page 234 to 
+   do ... while loop (page 243)
+
+4) Revise the program 5-3 on page 234 to 
+   for..  loop (page 248)
+
+5) Create a new program using  for .. loop to display:
+10 9 8 7 6 5 4 3 2
+
+6) Create a new program using  for .. loop to display:
+10 8 6 4 2
+
+7) Create a new program using  for .. loop to display:
+2 4 6 8 10
+
+8) Duplicate and run the program in the middle on page 239.
+
+

@@ -1,0 +1,9 @@
+High School
+Windows 10:  https://d3cwb24p5y5j5f.cloudfront.net/cpxi_state_pgsms_h_win10.zip
+Server 2016: https://d3cwb24p5y5j5f.cloudfront.net/cpxi_state_gsms_m_server2016.zip
+Ubuntu 16:   https://d3cwb24p5y5j5f.cloudfront.net/cpxi_state_pg_h_ubu16.zip
+
+Middle School
+Windows 10:  https://d3cwb24p5y5j5f.cloudfront.net/cpxi_state_pgsms_h_win10.zip
+Server 2016: https://d3cwb24p5y5j5f.cloudfront.net/cpxi_state_gsms_m_server2016.zip
+Ubuntu 16:   https://d3cwb24p5y5j5f.cloudfront.net/cpxi_state_sms_e_ubu16.zip

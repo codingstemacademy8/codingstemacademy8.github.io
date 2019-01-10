@@ -1,0 +1,70 @@
+1) Copy and run the progarm below:
+
+// A Java program to demonstrate working of printf() in Java 
+class JavaFormatter1 
+{ 
+  public static void main(String args[]) 
+  { 
+    int x = 100; 
+    System.out.printf("Printing simple integer: x = %d\n", x); 
+  
+    // this will print it upto 2 decimal places 
+    System.out.printf("Formatted with precison: PI = %.2f\n", Math.PI); 
+  
+    float n = 5.2f; 
+  
+    // automatically appends zero to the rightmost part of decimal 
+    System.out.printf("Formatted to specific width: n = %.4f\n", n); 
+  
+    n = 2324435.3f; 
+  
+    // here number is formatted from right margin and occupies a 
+    // width of 20 characters 
+    System.out.printf("Formatted to right margin: n = %20.4f\n", n); 
+
+    // String conversion
+    System.out.printf("'%s',  '%5s',  '%.3s'%n", "A", "B", "C");
+    System.out.printf("'%S',  '%5S', '%.3S'%n", "A", "B", "C");
+  } 
+} 
+
+
+ Output:
+
+Printing simple integer: x = 100
+Formatted with precison: PI = 3.14
+Formatted to specific width: n = 5.2000
+Formatted to right margin: n =         2324435.2500
+
+
+
+2) Create and run the progarm below:
+
+ System.out.printf("Result: %20s%n", "example");
+ System.out.printf("Result: %-20s%n", "example");
+ System.out.printf("%-20s result%n", "example");
+ System.out.printf("%2.2s%n", "Hi there!");
+ System.out.printf("[%6.4s]%n", "What's up?");
+ System.out.printf("[%-6.4s]%n", "What's up?");
+
+ Result:              example
+ Result: example
+ example              result
+ Hi
+ [  What]
+ [What  ]
+
+
+Note:
+For left padding, an integer is used between % and the conversion specifier.
+For right padding additional - is used.
+
+
+
+
+
+
+
+
+
+

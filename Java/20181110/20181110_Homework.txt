@@ -1,0 +1,27 @@
+Submit your code to  https://goo.gl/forms/qEHQhufKgHqI3kyI2
+
+1) Write a program to produce (use System.out.prinf):
+   123.45
+  1234.00
+     0.12
+     1.20
+
+2) Write a program to produce (use System.out.prinf):
+ 123.45
+ 1234.00
+ 0.12
+ 1.20
+
+
+3) Write a program to produce (use System.out.prinf):
+      Roberts
+        James
+      Patrick
+       George
+
+4) Write a program to produce (use System.out.prinf):
+      $10.25
+       $4.50
+    $1234.56
+
+

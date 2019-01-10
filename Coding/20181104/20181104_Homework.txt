@@ -1,0 +1,8 @@
+Given a string, convert the whole string to uppercase using C++.
+
+Submit your program to:  https://goo.gl/forms/047IrVS4xDdg7In62
+
+Reference:
+http://www.cplusplus.com/reference/locale/toupper/
+https://beginnersbook.com/2017/12/cpp-program-to-convert-lowercase-to-uppercase/
+https://faq.cprogramming.com/cgi-bin/smartfaq.cgi?id=1043284392&answer=1046053421
